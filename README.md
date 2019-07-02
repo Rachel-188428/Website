@@ -1,6 +1,6 @@
 # Website
 [Note to self] 
-Things to add:
+Things to add:<br>
 CS project links<br>
 Update all photos<br>
 Update all icons (fix icon3 and icon5)<br>
