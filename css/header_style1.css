@@ -86,7 +86,7 @@
 	font-size:13px;
 }
 .flexy-menu ul li a{
-	text-transform: lowercase;
+	text-transform: capitalize;
 	font-size: 13px;
 	padding:10px 20px;
 	width:100%;
