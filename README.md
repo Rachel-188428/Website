@@ -4,7 +4,7 @@ Things to add:
 CS project links<br>
 Resume link<br>
 Update all photos<br>
-Update all icons<br>
+Update all icons (fix icon3 and icon5)<br>
 Get rid of slider for the home<br>
 Update work experience specialties<br>
 **Add insta pics for fun facts**<br>
